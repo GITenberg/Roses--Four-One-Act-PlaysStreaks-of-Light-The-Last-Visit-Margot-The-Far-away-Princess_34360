@@ -1,0 +1,40 @@
+_repo: Roses--Four-One-Act-PlaysStreaks-of-Light-The-Last-Visit-Margot-The-Far-away-Princess_34360
+_version: 0.1.0
+alternative_title: Rosen. English
+contributor:
+  translator:
+    agent_name: Frank, Grace
+    birthdate: 1886
+    gutenberg_agent_id: '36974'
+    url: http://www.gutenberg.org/2009/agents/36974
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sudermann, Hermann
+    aliases:
+    - Sudermann, Herman
+    - Sunderman, Hermann
+    - Sudermann, H. (Hermann)
+    birthdate: 1857
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
+description: ''
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcc 'PT'
+title: 'Roses: Four One-Act Plays
+
+  Streaks of Light—The Last Visit—Margot—The Far-away Princess'
+url: http://www.gutenberg.org/ebooks/34360
